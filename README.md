@@ -112,6 +112,13 @@ I’m always open to collaborations, internships, and opportunities in tech
 
 ![](https://img.shields.io/badge/OneService-0078D4?style=for-the-badge)
 ![](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+---
 
-
+### 🌟 Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Attention to Detail  
+- Communication Skills  
+- Team Collaboration  
+- Adaptability 
 
