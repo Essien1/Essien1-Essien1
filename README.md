@@ -6,7 +6,7 @@
 ---
 
 
-## 👋 About Me
+## 💫 About Me
 
 I am a versatile tech professional with a strong background in **Software Development, Data Analytics, and IT Security & Support**. I am passionate about building scalable applications, analyzing data to uncover insights, and maintaining secure, efficient IT systems.
 
