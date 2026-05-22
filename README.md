@@ -47,6 +47,7 @@ I’m always open to collaborations, internships, and opportunities in tech
 ## 🌐 Socials
 - www.linkedin.com/in/essien-essien-302a36248
 - https://essienxyz.netlify.app
+- eessien396@gmail.com
 ---
 
 ## Tech Stack
